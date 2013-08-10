@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
  
   s.author       = { "Jonathan 'Wolf' Rentzsch" => "" }
  
-  s.source       = { :git => "https://github.com/Softshag/NSInvocation-blocks.git" :tag => 'v0.0.1' }
+  s.source       = { :git => "https://github.com/Softshag/NSInvocation-blocks.git", :tag => 'v0.0.1' }
 
   s.source_files = '*.{h,m}'
 
